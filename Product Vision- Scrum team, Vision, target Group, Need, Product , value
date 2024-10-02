@@ -1,0 +1,182 @@
+| Scrum Project:- Online Hospital Management System |
+| Venue:- Virtual|
+| Date:- |
+| Start Time:- 12 PM|
+| End Time:- 2PM |
+| Duration:- 2 Hours |
+| Client:- Healthcare facility |
+| Stakeholder List:-  Hospital Administrator, Doctor and Medical Staff, Nurses,
+                      Finance and Billing, Pharmacy, Patients, Insurance Provider, 
+                      Vendor and Suppliers for medical equipment, 
+                      IT and Development Team, Patient |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scrum Team
+
+Scrum Master:-	Mr. Ahuja
+Product Owner:-	Mr. Patankar
+Scrum Developer 1:-	Mrs. Rani
+Scrum Developer 2:-	Mrs. Gauri
+Scrum Developer 3:-	Mr. Rana
+Scrum Developer 4:-	Mr. Gaurav
+Scrum Developer 5:-	Mrs. Shravani
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vision
+
+=> Our vision for the Online Hospital Management System is to become a leading digital healthcare solution that seamlessly integrates hospital operations, enhances patient care, and empowers medical professionals. 
+=> We aim to provide a user-friendly, secure, and comprehensive platform that optimizes hospital management, improves patient outcomes, and sets new standards for healthcare technology.
+=> To enhance the user experience.
+=> To give multiple payment modes.
+=> To provide patients with a seamless experience.
+=> Enhance the performance.
+=> Allow integration with more third-party applications.
+=> Manage the patient’s data effectively. 
+=> Provide a secure and easy insurance claiming process.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Target Group
+
+=> Which market segment does the product address?
+•	The Online Hospital Management System targets the healthcare sector, focusing on hospitals, clinics, and healthcare professionals who prioritize efficient management of medical operations and patient data.
+•	This includes healthcare administrators seeking streamlined workflows, medical staff who need quick access to patient information, and patients who value the convenience of online appointment scheduling, 
+  medical history access, and seamless communication with healthcare providers.
+
+=> Who are the target users and customers?
+•	Hospital Administrators and Managers who need streamlined processes for scheduling, billing, resource management, and compliance tracking.
+•	Doctors and Medical Staff looking for easy access to patient records, appointment management, and tools to enhance clinical decision-making.
+•	Patients and Their Families who want a convenient way to book appointments, view medical history, access test results, and communicate directly with healthcare providers.
+•	IT and Support Teams responsible for maintaining hospital systems, data security, and ensuring smooth platform operation for all users.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Needs
+
+=> What problem does the product solve?
+Centralized Management of Hospital Operation- Hospitals and healthcare facilities have multiple departments.
+An OHMS provides a centralized system to manage these operations efficiently.
+
+Enhanced Patient Experience- With online appointment scheduling, real-time updates, and the ability to access medical history from any location, OHMS offers convenience and a better experience for patients.
+Patients can also engage in online consultations, receive electronic prescriptions, and have easy access to lab test results, leading to improved patient satisfaction and retention.
+
+Reduction in Human error- Manual record-keeping, prescription writing, and appointment management are prone to errors, which can lead to critical consequences. 
+An automated system minimizes these errors and enhances the accuracy of patient records and treatment plans.
+
+Efficient Resource Management- OHMS helps optimize resource allocation, including hospital beds, staff, equipment, and inventory management.
+
+Cost and Time Efficiency- Automating routine processes reduces the time and labour required for administrative tasks, allowing healthcare providers to focus more on patient care.
+It also reduces the cost of maintaining paper records and physical storage.
+
+Scalability and Adaptability- As hospitals expand or incorporate new services, an OHMS can easily be scaled and adapted to include new features or departments without disrupting the existing operations.
+It is also ideal for multi-branch healthcare organizations, providing seamless integration across various locations.
+
+
+=> Which benefit does it provide?
+Improve Operational efficiency- By automating manual tasks like patient registration, billing, appointment scheduling, and record management, the system reduces the administrative workload.
+Hospital staff can manage day-to-day operations more effectively, leading to better use of resources and time.
+
+Enhanced Patient care- Doctors and nurses have immediate access to comprehensive patient information, including past treatments, test results, and prescriptions, which aids in accurate diagnosis and personalized treatment plans.
+Patients can book appointments, access their medical history, and view lab results from any location, enhancing their experience and ensuring continuity of care.
+Centralized data Management- All patient records, billing information, inventory, and other hospital data are stored in a single, centralized platform.
+This eliminates data silos, reduces redundancy, and ensures that the latest information is accessible to all relevant stakeholders.
+
+Better Patient Engagement and communication- The system includes a patient portal where patients can view their medical information, communicate with doctors, receive reminders for upcoming appointments, and even access educational resources.
+This improves patient engagement, satisfaction, and compliance with treatment plans.
+
+Secure data Management- The system ensures data security through encryption, secure access protocols, and audit trails, protecting sensitive patient data from unauthorized access.
+It helps hospitals comply with healthcare regulations like HIPAA and GDPR, reducing the risk of legal and financial penalties.
+
+Payment Process- The system automates billing and invoicing, making the process more transparent and less prone to errors.
+Patients can pay online, review their billing history, and receive digital receipts, simplifying payment management.
+
+Enhanced communication and Co-ordination- Seamless communication between departments (e.g., pharmacy, laboratory, radiology) ensures that staff have the necessary information to deliver timely and coordinated care.
+Notifications and alerts (e.g., critical lab results) can be sent to relevant staff immediately.
+
+Better Resource Allocation and Management- Real-time tracking of hospital resources (e.g., beds, equipment, and medical supplies) helps administrators plan and allocate resources more effectively.
+The system helps avoid resource shortages and ensures that the hospital is equipped to handle patient needs.
+
+Scalability and Flexibility- The system can easily accommodate more users, new departments, or additional functionalities as the hospital grows.
+This makes it suitable for both small clinics and large multi-branch hospitals.
+
+Improved Decision Making with Analytics- The system generates insightful reports on patient demographics, treatment outcomes, resource utilization, and financial performance.
+Hospital management can use these analytics to identify trends, optimize workflows, and make data-driven decisions.
+
+Reduction in Human Error- Automation of processes like prescription management, appointment scheduling, and data entry reduces the risk of human error, which is critical in a healthcare environment.
+
+Cost Efficiency- By minimizing the need for manual work, paper records, and physical storage, the system reduces operating costs over time.
+Increased efficiency also translates to reduced wait times and better patient throughput, maximizing revenue potential.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Product
+
+=> What is the product?
+The product is an Online Hospital Management System (OHMS), a digital platform that facilitates the efficient management of hospital operations and enhances patient care. 
+It allows hospitals and healthcare facilities to manage patient information, appointment scheduling, billing, inventory, and communication between medical staff and patients seamlessly.
+The OHMS provides a centralized and accessible way for healthcare professionals to access critical patient data, streamline workflows, and improve clinical outcomes, while enabling patients
+to engage with healthcare services through online appointment booking, telemedicine, and viewing medical records from the comfort of their own devices.
+
+
+=> What makes it desirable and special?
+Convenience: Healthcare professionals and patients can access the system anytime, anywhere, without being restricted to a physical location.
+Doctors can check patient records, schedule appointments, and prescribe medications remotely, while patients can book appointments, view test results, and communicate with healthcare providers 
+from the comfort of their homes.
+
+Comprehensive Services- The system offers a wide range of integrated functionalities, including patient management, billing, scheduling, pharmacy management, and telemedicine.
+It provides a one-stop solution for all healthcare-related needs, reducing the need for multiple standalone systems.
+
+Efficiency- Automating repetitive tasks, such as patient check-ins, record updates, and inventory management, significantly reduces manual effort and potential errors.
+Doctors and nurses can focus more on patient care rather than administrative duties, resulting in better quality of service.
+
+Personalization: The system can personalize the user experience by offering tailored appointment reminders, health alerts, and customized treatment plans based on the patient's medical history.
+It adapts to the unique workflows of doctors, nurses, and administrative staff, ensuring a smoother user experience.
+
+Accessibility: Patients have easy access to their medical records, prescriptions, and health reports, making it easier to stay informed and engaged in their own healthcare.
+It is especially valuable for rural or remote patients who might not have easy access to hospitals or clinics, enabling them to receive care virtually through telemedicine.
+
+Scalability- The system can easily scale to accommodate more patients, additional departments, and new functionalities as the hospital grows, making it future-ready.
+It also supports multi-branch management for hospitals with multiple locations, offering a centralized platform to oversee all operations.
+
+Improved Communication- The platform enables real-time communication between patients, doctors, nurses, and other staff members, reducing delays and ensuring that everyone stays informed.
+Integrated messaging, notifications, and alerts make it easier to coordinate care, even in emergency situations
+
+=> Is it feasible to develop the product?
+Yes, developing a Online Hospital Management System is feasible, given the advancements in technology and the widespread adoption of platforms.
+Feasibility depends on various factors, including:
+Technical Expertise
+Resources
+Market Demand
+Partnership
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Value
+=> How is the product going to benefit the company?
+Increased Revenue- The OHMS can enhance revenue through multiple streams such as patient service fees, telemedicine consultations, and partnerships with insurance providers. 
+By streamlining hospital operations and improving resource utilization, the system can reduce operational costs and increase profitability.
+
+Expanded Patient Reach- By providing an online platform for patient registration, appointment scheduling, and telemedicine services, the hospital can extend its reach to a broader audience, 
+including remote areas and international patients. This can attract a larger patient base beyond traditional geographic limitations.
+
+Enhanced Patient Insights- The system can collect and analyze critical data on patient demographics, treatment histories, and service preferences. These insights can inform strategic 
+decision-making, optimize marketing campaigns, and guide the development of new healthcare services tailored to patient needs.
+
+Improved Operational Efficiency- With automated workflows for billing, inventory, and staff management, the OHMS reduces the dependency on manual processes, minimizes errors, and 
+accelerates administrative tasks.
+This allows staff to focus on delivering quality care, ultimately improving patient satisfaction and retention.
+
+Better Compliance and Reporting- The OHMS ensures compliance with healthcare regulations by maintaining accurate and up-to-date patient records, automated reporting, and data security measures. 
+This helps the hospital avoid legal risks and fosters trust with patients.
+
+
+=> What are the business goals?
+Increase Revenue and Efficiency
+Enhance Patient Experience
+
+
+=> What is the business model?
+B2B (Business-to-Business) 
+B2C (Business-to-Consumer) hybrid business model.
