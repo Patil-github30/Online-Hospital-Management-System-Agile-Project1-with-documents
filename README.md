@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 The Online Hotel Management System (OHMS) is a comprehensive software solution designed to automate and streamline the operations of a hotel. The system offers a robust platform for managing various hotel functions, including room reservations, check-in/check-out processes, guest services, staff management, and billing. OHMS aims to enhance the guest experience by providing a user-friendly interface for both customers and hotel staff, ensuring efficient handling of reservations, real-time room availability tracking, and quick response to customer needs.
 
 Objective:
