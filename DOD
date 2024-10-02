@@ -1,0 +1,30 @@
+Defination Of Done
+
+UI is implemented according to the design.
+UI is user friendly.
+UI elements are user friendly and intuitive.
+Patients can register themselves and log in to the system.
+Search functionality is enabled for the patients.
+Search functionality is enabled for the doctors.
+Patients can view detailed information of the doctors.
+Patients can book an appointment.
+Patients receive a confirmation mail for their appointment.
+Database schema is designed and implemented securely.
+API’s are developed for frontend communication.
+Patient authentication and authorization techniques are implemented.
+
+Produced code for presumed functionalities.
+Assumptions of User Story met
+Project builds without errors 
+Unit tests written and passing
+Project deployed on the test environment identical to production platform 
+Tests on devices/browsers listed in the project assumptions passed 
+
+Feature ok-ed by UX designer 
+QA performed & issues resolved 
+Feature is tested against acceptance criteria 
+Feature ok-ed by Product Owner
+Refactoring completed 
+Any configuration or build changes documented 
+Documentation updated 
+Peer Code Review performed
