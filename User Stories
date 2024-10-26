@@ -252,7 +252,465 @@ Exceptional Flow-
 •	Forgot password.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+User Story No: 10        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A CLERK, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
 
+Basic Flow-
+•	The clerk has already registered.
+•	Now the nurse logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the clerk.
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 11        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A EXTERNAL CONSULTANTS, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The external consultant has already registered.
+•	Now the nurse logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the external consultant
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 12        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A RECEPTIONIST, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The receptionist has already registered.
+•	Now the receptionist logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the receptionist.
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 13        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO BOOK APPOINTMENT IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	Now the patient searches for the concerned doctor in to the Online Hospital Management System by entering email and password.
+•	After searching, patient checks for the time slots in which that concerned doctor is available.
+•	Then the patient books the appointment.
+•	Patient gets a email confirmation.
+
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	I will book my appointment with the concerned doctor.
+•	Patient gets a message confirmation.
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 14        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO VIEW APPOINTMENT DETAILS IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	Now the patient searches for the concerned doctor in to the Online Hospital Management System by entering email and password.
+•	After searching, patient checks for the time slots in which that concerned doctor is available.
+•	Then the patient books the appointment.
+•	Patient gets an email confirmation.
+•	Patient can keep the track of his previous appointments.
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	Patient will book my appointment with the concerned doctor.
+•	Patient gets a message confirmation.
+•	Patient can keep the track of his previous appointments.
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 15        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO RESCHEDULE MY APPOINTMENT IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	Now the patient searches for the appointment which he has booked
+•	After searching, patient will search for other time and date slot according to his preference.
+•	Then the patient books the appointment.
+•	Patient gets an email confirmation regarding the changed appointment details.
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	Now the patient searches for the appointment which he has booked
+•	After searching, patient will search for other time and date slot according to his preference.
+•	Then the patient books the appointment.
+•	Patient gets an email confirmation regarding the changed appointment details.
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 16        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO VIEW AND DOWNLOAD MY PRESCRIPTION. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	Now the patient searches for the doctor for which he had booked appointment.
+•	Now the patient will find the latest prescription which is uploaded by the doctor.
+•	Patient will download that prescription.
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	The patient log in himself in the application.
+•	Now the patient searches for the doctor for which he had booked appointment.
+•	Now the patient will find the latest prescription which is uploaded by the doctor.
+•	Patient will download that prescription.
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+•	Not able to download the prescription.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 17        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO HAVE ONLINE .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	Now the patient searches for the doctor for which he had booked appointment.
+•	Now the patient will request to talk with the doctor at the booked time slot.
+•	Patient will tell his concerns.
+•	Doctor will provide his input.
+•	Doctor will upload the prescription according to the patient’s concern. 
+
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	Now the patient searches for the doctor for which he had booked appointment.
+•	Now the patient will request to talk with the doctor at the booked time slot.
+•	Patient will tell his concerns.
+•	Doctor will provide his input.
+•	Doctor will upload the prescription according to the patient’s concern. 
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+•	Not able to download the prescription.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 18        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WILL BE ABLE TO VIEW THE LAB REPORTS. .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	Now the patient will go to the lab reports section.
+•	Patient will search for the lab reports which he wants and download them. 
+
+Alternate Flow-
+•	As a patient, I will install the Online Hospital Management System application.
+•	I will register myself in that application by filling the details. 
+•	I will enter appropriate phone number.
+•	Then I will receive an OTP on that registered number.
+•	Then I will enter that OTP and I will be logged in to the application.
+•	According to the details which I had filled, I will be suggested with the list of doctors which treat my concern.
+•	Now the patient will go to the lab reports section.
+•	Patient will search for the lab reports which he wants and download them.
+
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+•	Not able to download the lab reports.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 19        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WILL MAKE PAYMENT .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	The patient will talk to the concerned doctor.
+•	Then patient will have to pay fees.
+•	Patient will select preferred payment method from available option.
+•	Provide necessary payment details.
+•	Patient verifies the payment details.
+•	Patients pay the fees by clicking pay.
+•	The system processes the payment securely and displays a confirmation message.
+
+
+Alternate Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	The patient will talk to the concerned doctor.
+•	Then patient will have to pay fees.
+•	If the customer encounters issues with their chosen payment method,
+•	They can select an alternative payment method if available.
+•	The customer repeats steps 3 to 6 with the new payment method.
+
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+•	Not able to download the prescription.
+•	If there are technical issues during the payment process, the system displays an error message.
+•	The patient can try again later or use an alternate payment method if available.
+•	The system notifies the patient about the declined payment.
+•	The patient can double-check the payment details and try again.
+•	If the problem persists, they can contact their bank or payment provider for assistance.
+•	If the payment gateway is temporarily unavailable, T If the problem persists, they can contact customer support for assistance.
+•	The system displays a message indicating the issue.
+•	The patient can try again later or use an alternate payment method if available.
+•	If the problem persists, they can contact customer support for assistance.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 20        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WILL MAKE PAYMENT .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	The patient will talk to the concerned doctor.
+•	Then patient will have to pay fees.
+•	Patient will select preferred payment method from available option.
+•	Provide necessary payment details.
+•	Patient verifies the payment details.
+•	Patients pay the fees by clicking pay.
+•	The system processes the payment securely and displays a confirmation message.
+
+Alternate Flow-
+•	The patient opens the application.
+•	The patient has already registered.
+•	The patient log in himself in the application.
+•	The patient will talk to the concerned doctor.
+•	Then patient will have to pay fees.
+•	If the customer encounters issues with their chosen payment method,
+•	They can select an alternative payment method if available.
+•	The customer repeats steps 3 to 6 with the new payment method.
+
+
+Exceptional Flow-
+•	While trying to search the doctors, the patient faces network issue.
+•	The pages are not loading.
+•	While searching, the system displays error message saying that currently there is network issue so searching can’t be done.
+•	Not able to download the prescription.
+•	If there are technical issues during the payment process, the system displays an error message.
+•	The patient can try again later or use an alternate payment method if available.
+•	The system notifies the patient about the declined payment.
+•	The patient can double-check the payment details and try again.
+•	If the problem persists, they can contact their bank or payment provider for assistance.
+•	If the payment gateway is temporarily unavailable, T If the problem persists, they can contact customer support for assistance.
+•	The system displays a message indicating the issue.
+•	The patient can try again later or use an alternate payment method if available.
+•	If the problem persists, they can contact customer support for assistance.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 21        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO VIEW MY INSURANCE DETAILS TO ENSURE SMOOTH CLAIM PROCESSING.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	The patient has already registered and logged into the system.
+•	The patient navigates to the ‘Insurance Details’ section.
+•	The patient views their existing insurance information.
+•	The patient clicks on ‘Edit Insurance Information’.
+•	The patient enters or updates details such as insurance provider, policy number, and coverage start/end dates.
+•	The patient clicks ‘Save Changes’.
+•	The system validates the updated information.
+•	The system saves the new details and displays a confirmation message.
+•	The patient sees a success notification.
+
+Alternate Flow-
+•	The patient opens the application.
+•	The patient has already registered and logged into the system.
+•	The patient navigates to the ‘Insurance Details’ section.
+•	The patient views their existing insurance information.
+•	The patient clicks on ‘Edit Insurance Information’.
+•	The patient updates the insurance provider and policy number.
+•	The patient clicks ‘Save Changes’, but the system displays an error message due to incorrect policy number format.
+•	The patient corrects the format and resubmits.
+•	The system validates and updates the information.
+•	A confirmation message is displayed.
+
+Exceptional Flow-
+The patient opens the application.
+•	 The patient logs into the system but faces a network issue.
+•	 The Insurance Details page fails to load.
+•	The system displays an error message: “Network issue detected. Please try again later.”
+•	The patient waits and tries again after some time.
+•	The insurance details page loads successfully on retry.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 22        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENTI SHOULD RECEIVE APPOINTMENT REMAINDERS.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient opens the application.
+•	 The patient has already registered and logged into the system.
+•	The patient navigates to the ‘Appointments’ section.
+•	The patient selects ‘Set Reminder’ for an upcoming appointment.
+•	The system displays available reminder options (email, SMS, or app notification).
+•	The patient selects their preferred reminder method and timing (e.g., 24 hours and 1 hour before the appointment).
+•	 The patient clicks on ‘Save Reminder Preferences’.
+•	  The system confirms and sets up the reminders.
+•	A success message is displayed to the patient: “Reminders have been successfully set up for your appointment.”
+
+Alternate Flow-
+•	The patient opens the application.
+•	The patient has already registered and logged into the system.
+•	 The patient navigates to the ‘Appointments’ section.
+•	The patient selects ‘Set Reminder’ for an upcoming appointment.
+•	The system displays available reminder options.
+•	The patient selects multiple options (e.g., both SMS and app notification).
+•	The patient clicks on ‘Save Reminder Preferences’.
+•	 The system confirms and sets up the reminders.
+•	The patient receives confirmation for multiple reminders.
+
+
+Exceptional Flow-
+•	 The patient opens the application.
+•	The patient tries to navigate to the ‘Appointments’ section but faces a network issue.
+•	The Appointments page fails to load.
+•	The system displays an error message:
+“Network issue detected. Please try again later.”
+•	The patient waits and tries again after some time.
+•	The appointments page loads successfully on retry.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
