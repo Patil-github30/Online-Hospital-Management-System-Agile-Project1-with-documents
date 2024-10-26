@@ -29,15 +29,228 @@ Exceptional Flow-
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+User Story No: 2        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A DOCTOR, I WANT TO REGISTER MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM .
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	•	As a doctor, I install the Online Hospital Management System application.
+•	I open the application and navigate to the registration screen.
+•	I enter my personal information, including Name, Phone Number, Email, Address, and Date of Birth, Doctor type
+•	I create a secure password and confirm it.
+•	I submit the registration form by clicking the "Register" button.
+•	If all fields are correctly filled, a confirmation message should display stating, "Registration Successful." I should receive a welcome email as well.
+
+
+Alternate Flow-
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:
+“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message:
+"Please fill in all the mandatory fields."
 
 
 
+Exceptional Flow-
+•	If there is a technical issue during registration (e.g., server error), an appropriate error message should be shown:
+“We are currently experiencing technical difficulties. Please try again later.”
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+User Story No: 3        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A NURSE, I WANT TO REGISTER MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+• As a nurse, I install the Online Hospital Management System application.
+•	I open the application and navigate to the registration screen.
+•	I enter my personal information, including Name, Phone Number, Email, Address, and Date of Birth.
+•	I create a secure password and confirm it.
+•	I submit the registration form by clicking the "Register" button.
+•	If all fields are correctly filled, a confirmation message should display stating, "Registration Successful." I should receive a welcome email as well.
 
 
+Alternate Flow-
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:
+“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message:
+"Please fill in all the mandatory fields."
 
 
+Exceptional Flow-
+•	If there is a technical issue during registration (e.g., server error), an appropriate error message should be shown:
+“We are currently experiencing technical difficulties. Please try again later.”
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 4        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A CLERK, I WANT TO REGISTER MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	As a clerk, I install the Online Hospital Management System application.
+•	I open the application and navigate to the registration screen.
+•	I enter my personal information, including Name, Phone Number, Email, Address, and Date of Birth.
+•	I create a secure password and confirm it.
+•	I submit the registration form by clicking the "Register" button.
+•	If all fields are correctly filled, a confirmation message should display stating, "Registration Successful." I should receive a welcome email as well.
+
+
+Alternate Flow-
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:
+“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message:
+"Please fill in all the mandatory fields."
+
+
+Exceptional Flow-
+•	If there is a technical issue during registration (e.g., server error), an appropriate error message should be shown:
+“We are currently experiencing technical difficulties. Please try again later.”
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 5        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A EXTERNAL CONSULTANT, I WANT TO REGISTER MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	As a clerk, I install the Online Hospital Management System application.
+•	I open the application and navigate to the registration screen.
+•	I enter my personal information, including Name, Phone Number, Email, Address, and Date of Birth.
+•	I create a secure password and confirm it.
+•	I submit the registration form by clicking the "Register" button.
+•	If all fields are correctly filled, a confirmation message should display stating, "Registration Successful." I should receive a welcome email as well.
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message: "Please fill in all the mandatory fields."
+
+Alternate Flow-
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:
+“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message:
+"Please fill in all the mandatory fields."
+
+Exceptional Flow-
+•	If there is a technical issue during registration (e.g., server error), an appropriate error message should be shown:
+“We are currently experiencing technical difficulties. Please try again later.”
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 6        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A RECEPTIONIST, I WANT TO REGISTER MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	As a receptionist, I install the Online Hospital Management System application.
+•	I open the application and navigate to the registration screen.
+•	I enter my personal information, including Name, Phone Number, Email, Address, and Date of Birth.
+•	I create a secure password and confirm it.
+•	I submit the registration form by clicking the "Register" button.
+•	If all fields are correctly filled, a confirmation message should display stating, "Registration Successful." I should receive a welcome email as well.
+
+
+Alternate Flow-
+•	If the entered phone number or email is already associated with an existing account, an error message should be displayed:
+“An account with this phone number/email already exists. Please use another or log in.”
+•	If any required fields are left blank, the system should show a message:
+"Please fill in all the mandatory fields."
+
+
+Exceptional Flow-
+•	If there is a technical issue during registration (e.g., server error), an appropriate error message should be shown:
+“We are currently experiencing technical difficulties. Please try again later.”
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 7        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A PATIENT, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The patient has already registered.
+•	Now the patient logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the patient.
+
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 8        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A DOCTOR, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The doctor has already registered.
+•	Now the doctor logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the patient.
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+User Story No: 9        Task: 1        Priority: HIGH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AS A NURSE, I WANT TO LOGIN MYSELF IN THE ONLINE HOSPITAL MANAGEMENT SYSTEM SO THAT I CAN ACCESS HEALTHCARE SERVICES. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BV: 500	CP: 1 Unit
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acceptance Criteria:
+
+Basic Flow-
+•	The nurse has already registered.
+•	Now the nurse logs in to the Online Hospital Management System by entering email and password.
+•	After login is done successfully, the home screen page is displayed to the nurse.
+
+Alternate Flow-
+•	Entered password is wrong.
+•	Entered email is wrong.
+•	Both are wrong.
+
+Exceptional Flow-
+•	Forgot email.
+•	Forgot password.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
