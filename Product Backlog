@@ -1,0 +1,15 @@
+User Story|                                                                   User story                                                                                        Task                                                    Priority             BV           CP          Sprint
+ID        |   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          | As an admin, I want to register new patients into the system so that I can maintain records efficiently.                     | Develop patient registration module                                                   |  HIGH           |  100         |    2      |   Sprint 1                                          
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
+          | As a doctor, I want to view a patient’s medical history so that I can make informed treatment decisions.                     | Design patient history page                                                           |  HIGH           |  100         |    2      |   Sprint 1 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          | As a receptionist, I want to schedule appointments for patients to ensure effective time management for doctors.             | Implement appointment scheduling feature                                              |  HIGH           |  100         |    3      | 
+
+
+
+
+
+
+
